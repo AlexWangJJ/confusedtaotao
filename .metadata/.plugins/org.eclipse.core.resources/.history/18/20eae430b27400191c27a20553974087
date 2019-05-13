@@ -1,0 +1,13 @@
+package com.taotao.service.impl;
+
+import com.taotao.service.TestService;
+
+public class TestServiceImpl implements TestService {
+
+	@Override
+	public String queryNow() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

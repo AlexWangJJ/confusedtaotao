@@ -19,4 +19,23 @@
 <entry path="D:\Developer\Java\jdk8\jre1.8\lib\endorsed"/>
 </endorsedDirs>
 </libraryInfo>
+<libraryInfo home="D:\Developer\Java\jdk8\jdk-8u201" version="1.8.0_201">
+<bootpath>
+<entry path="D:\Developer\Java\jdk8\jdk-8u201\jre\lib\resources.jar"/>
+<entry path="D:\Developer\Java\jdk8\jdk-8u201\jre\lib\rt.jar"/>
+<entry path="D:\Developer\Java\jdk8\jdk-8u201\jre\lib\sunrsasign.jar"/>
+<entry path="D:\Developer\Java\jdk8\jdk-8u201\jre\lib\jsse.jar"/>
+<entry path="D:\Developer\Java\jdk8\jdk-8u201\jre\lib\jce.jar"/>
+<entry path="D:\Developer\Java\jdk8\jdk-8u201\jre\lib\charsets.jar"/>
+<entry path="D:\Developer\Java\jdk8\jdk-8u201\jre\lib\jfr.jar"/>
+<entry path="D:\Developer\Java\jdk8\jdk-8u201\jre\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="D:\Developer\Java\jdk8\jdk-8u201\jre\lib\ext"/>
+<entry path="C:\Windows\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="D:\Developer\Java\jdk8\jdk-8u201\jre\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
 </libraryInfos>

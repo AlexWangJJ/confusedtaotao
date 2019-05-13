@@ -9,6 +9,7 @@
 		<list key="artifactId">
 			<item value="taotao-manager-web"/>
 			<item value="taotao-parent"/>
+			<item value="taotao-web"/>
 			<item value="taotao-manager-service"/>
 			<item value="taotao-manager"/>
 			<item value="taotao-manager-interface"/>
