@@ -11,7 +11,6 @@
 	<context:property-placeholder location="classpath:*.properties" />
 
 	<context:component-scan base-package="com.taotao.controller" />
-
 	<mvc:annotation-driven />
 	<bean
 		class="org.springframework.web.servlet.view.InternalResourceViewResolver">
@@ -41,7 +40,7 @@
 		id="itemService" timeout="300000" />
 	<dubbo:reference interface="com.taotao.service.ItemCatService"
 		id="itemCatService" timeout="300000" />
-	<dubbo:reference interface="com.taotao.service.ContentCategoryService"
+	<dubbo:reference interface="com.taotao.content.service.ContentCategoryService"
 		id="ContentCategoryService" timeout="300000" />
 <!-- 	<dubbo:reference interface="com.taotao.service.ItemCatService"
 		id="itemCatService" timeout="300000" /> -->

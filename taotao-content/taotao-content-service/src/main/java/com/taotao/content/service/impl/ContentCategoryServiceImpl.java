@@ -1,12 +1,15 @@
 package com.taotao.content.service.impl;
 
 import java.util.ArrayList;
+import java.util.Date;
 import java.util.List;
 
+import org.apache.ibatis.builder.annotation.MapperAnnotationBuilder;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import com.taotao.common.pojo.EUTreeNode;
+import com.taotao.common.pojo.TaotaoResult;
 import com.taotao.content.service.ContentCategoryService;
 import com.taotao.mapper.TbContentCategoryMapper;
 import com.taotao.pojo.TbContentCategory;
@@ -18,6 +21,33 @@ public class ContentCategoryServiceImpl implements ContentCategoryService {
 
 	@Autowired
 	private TbContentCategoryMapper contentCategoryMapper;
+	@Override
+	public TaotaoResult createContentCategory(Long parentId, String name) {
+		// 构建对象不全其他属性
+		TbContentCategory contentCategory = new TbContentCategory();
+		contentCategory.setCreated(new Date());
+		contentCategory.setIsParent(false);
+		contentCategory.setParentId(parentId);
+		contentCategory.setName(name);
+		contentCategory.setSortOrder(1);
+		contentCategory.setUpdated(new Date());
+		
+		//插入数据
+		contentCategoryMapper.insertSelective(contentCategory);
+		//返回内容分类的id 需要逐渐返回
+		
+		//如果父亲是叶子结点需要改变状态
+		TbContentCategory category = contentCategoryMapper.selectByPrimaryKey(parentId);
+		
+		if (category.getIsParent()==false) {
+			category.setIsParent(true);
+			contentCategoryMapper.updateByPrimaryKeySelective(category);//更新节点的属性为true
+		}
+		
+		
+		return TaotaoResult.ok(contentCategory);
+	}
+
 	@Override
 	public List<EUTreeNode> getContentCategoryList(Long parentId) {
 		// 1、取查询参数id，parentId

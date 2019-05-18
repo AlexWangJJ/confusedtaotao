@@ -48,7 +48,6 @@ INDEX VERSION 1.127+E:\taotao_workspace\.metadata\.plugins\org.eclipse.jdt.core
 3942424300.index
 2669658077.index
 986312471.index
-4160609502.index
 3988682427.index
 2281533158.index
 3952988637.index
@@ -66,7 +65,6 @@ INDEX VERSION 1.127+E:\taotao_workspace\.metadata\.plugins\org.eclipse.jdt.core
 46457078.index
 1107932181.index
 3050123939.index
-608810223.index
 336138619.index
 878824076.index
 1607265252.index
@@ -77,8 +75,6 @@ INDEX VERSION 1.127+E:\taotao_workspace\.metadata\.plugins\org.eclipse.jdt.core
 1684705346.index
 144872675.index
 2447834176.index
-1484065203.index
-1598216745.index
 1027595092.index
 2735742576.index
 2373059.index
