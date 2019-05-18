@@ -1,0 +1,16 @@
+package com.taotao.content.service.Impl;
+
+import java.util.List;
+
+import com.taotao.common.pojo.EUTreeNode;
+import com.taotao.content.service.ContentCategoryService;
+
+public class ContentCategoryServiceImpl implements ContentCategoryService {
+
+	@Override
+	public List<EUTreeNode> getContentCategoryList(Long parentId) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

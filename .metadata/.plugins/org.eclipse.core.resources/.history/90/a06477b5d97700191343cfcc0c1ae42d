@@ -1,0 +1,7 @@
+package com.taotao.service.impl;
+
+import com.taotao.service.BaseService;
+
+public class BaseServiceImpl implements BaseService<T> {
+
+}

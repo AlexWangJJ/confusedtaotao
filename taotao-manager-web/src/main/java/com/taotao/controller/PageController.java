@@ -23,6 +23,4 @@ public class PageController {
 	public String showItemList(@PathVariable String page){
 		return page;
 	}
-
-
 }

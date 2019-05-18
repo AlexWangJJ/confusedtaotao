@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <workingSetManager>
 <workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1557650255744_0" label="taotao" name="taotao">
+<item elementID="=taotao-content-service" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=taotao-manager-pojo" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/taotao-parent" type="4"/>
+<item elementID="=taotao-content-interface" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=taotao-common" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/taotao-manager" type="4"/>
+<item elementID="=taotao-portal-web" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/taotao-content" type="4"/>
 <item elementID="=taotao-manager-service" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=taotao-manager-dao" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=taotao-manager-interface" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>

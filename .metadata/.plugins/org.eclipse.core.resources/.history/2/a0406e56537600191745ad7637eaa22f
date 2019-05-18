@@ -1,0 +1,14 @@
+package com.taotao.service.impl;
+
+import com.taotao.common.pojo.EasyUIDataGridResult;
+import com.taotao.service.ItemService;
+
+public class ItemCatServiceImpl implements ItemService {
+
+	@Override
+	public EasyUIDataGridResult getItemList(Integer page, Integer rows) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

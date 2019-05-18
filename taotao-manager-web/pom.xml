@@ -11,13 +11,23 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 	<dependencies>
-	<dependency>
-	<!-- 添加接口依賴 -->
-		<groupId>com.taotao</groupId>
-		<artifactId>taotao-manager-interface</artifactId>
-		<version>0.0.1-SNAPSHOT</version>
-	</dependency>
-	
+		<dependency>
+			<!-- 添加接口依賴 -->
+			<groupId>com.taotao</groupId>
+			<artifactId>taotao-manager-interface</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
+		<dependency>
+			<groupId>com.taotao</groupId>
+			<artifactId>taotao-content-interface</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
+		<dependency>
+			<groupId>com.github.pagehelper</groupId>
+			<artifactId>pagehelper</artifactId>
+			<version>${pagehelper.version}</version>
+		</dependency>
+
 		<!-- Spring -->
 		<dependency>
 			<groupId>org.springframework</groupId>
@@ -91,18 +101,24 @@
 			<groupId>com.github.sgroschupf</groupId>
 			<artifactId>zkclient</artifactId>
 		</dependency>
-	</dependencies>
-	<!-- 配置tomcat插件 -->
-	<build>
-		<plugins>
-			<plugin>
-				<groupId>org.apache.tomcat.maven</groupId>
-				<artifactId>tomcat7-maven-plugin</artifactId>
-				<configuration>
-					<port>8081</port>
-					<path>/</path>
-				</configuration>
-			</plugin>
-		</plugins>
-	</build>
+		<!-- https://mvnrepository.com/artifact/net.oschina.zcx7878/fastdfs-client-java -->
+		<dependency>
+			<groupId>net.oschina.zcx7878</groupId>
+			<artifactId>fastdfs-client-java</artifactId>
+			<version>1.27.0.0</version>
+		</dependency>
+		</dependencies>
+		<!-- 配置tomcat插件 -->
+		<build>
+			<plugins>
+				<plugin>
+					<groupId>org.apache.tomcat.maven</groupId>
+					<artifactId>tomcat7-maven-plugin</artifactId>
+					<configuration>
+						<port>8081</port>
+						<path>/</path>
+					</configuration>
+				</plugin>
+			</plugins>
+		</build>
 </project>
