@@ -1,0 +1,45 @@
+package com.taotao.portal.controller;
+
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Value;
+import org.springframework.stereotype.Controller;
+
+import org.springframework.web.bind.annotation.RequestMapping;
+
+import com.taotao.content.service.ContentService;
+import com.taotao.pojo.TbContent;
+
+/**
+ * 展示首页
+ * 
+ * @author AlexWang
+ *
+ */
+@Controller
+public class PageController {
+
+	@Autowired
+	private ContentService service;
+	
+	//用属性文件的形式对id进行注入
+	@Value("${AD1_CATEGORY_ID}")
+	private Long categoryId;
+	
+	@RequestMapping("/index")
+	public String showIndex(){
+		//引入服务
+		//注入服务
+		//添加业务逻辑，根据分类内容id，查询内容列表
+		List<TbContent> list = service.getContentListByCatId(categoryId);
+		//转换成自定义的pojo
+		
+		//传递给jsp生成动态页面
+		
+		
+		
+		
+		return "index";
+	}
+}

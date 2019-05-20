@@ -17,4 +17,19 @@ public interface ContentCategoryService {
 	 * @return
 	 */
 	TaotaoResult createContentCategory(Long parentId,String name);
+	
+	/**
+	 * 右键节点rename
+	 * @param nodeId
+	 * @param name
+	 * @return
+	 */
+	TaotaoResult updateContentCategory(Long nodeId,String name);
+	
+	/**
+	 * 删除分类节点
+	 * @param nodeId
+	 * @return
+	 */
+	TaotaoResult deleteContentCategory(Long nodeId);
 }

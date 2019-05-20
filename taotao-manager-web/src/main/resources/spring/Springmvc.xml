@@ -42,7 +42,7 @@
 		id="itemCatService" timeout="300000" />
 	<dubbo:reference interface="com.taotao.content.service.ContentCategoryService"
 		id="ContentCategoryService" timeout="300000" />
-<!-- 	<dubbo:reference interface="com.taotao.service.ItemCatService"
-		id="itemCatService" timeout="300000" /> -->
+	<dubbo:reference interface="com.taotao.service.content.ContentService"
+		id="contentService" timeout="300000" />
 
 </beans>

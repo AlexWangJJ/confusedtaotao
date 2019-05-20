@@ -1,0 +1,25 @@
+package com.taotao.content.service;
+
+import java.util.List;
+
+import com.taotao.common.pojo.TaotaoResult;
+import com.taotao.pojo.TbContent;
+
+
+/**
+ * 
+ * @author AlexWang
+ * @version 1.0
+ */
+public interface ContentService{
+	
+	/**
+	 * 插入内容
+	 * @param content
+	 * @return
+	 */
+	TaotaoResult saveContent(TbContent content);
+	
+	List<TbContent> getContentListByCatId(Long categoryId);
+	
+}

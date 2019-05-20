@@ -6,6 +6,7 @@ import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.stereotype.Service;
+import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RequestParam;
@@ -51,5 +52,29 @@ public class ContentCategoryController {
 		return service.createContentCategory(parentId, name);
 		
 		
+	}
+	/**
+	 * 对目录节点进行rename
+	 * @param nodeId
+	 * @param name
+	 * @return
+	 */
+	
+	@RequestMapping(value="/content/category/update",method=RequestMethod.POST)
+	@ResponseBody
+	public TaotaoResult updateContentCategory(@RequestParam(value="id")Long nodeId,String name){
+		
+		return service.updateContentCategory(nodeId, name);
+		
+	}
+	/**
+	 * 删除节点
+	 * @param nodeId
+	 * @return
+	 */
+	@RequestMapping(value="/content/category/delete",method=RequestMethod.POST)
+	@ResponseBody
+	public TaotaoResult deleteContentCategory(@RequestParam(value="id")Long nodeId){
+		return service.deleteContentCategory(nodeId);
 	}
 }
