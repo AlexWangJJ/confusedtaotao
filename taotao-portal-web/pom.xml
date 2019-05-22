@@ -11,6 +11,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 	<dependencies>
+	
 	<!-- 添加接口依赖 -->
 		<dependency>
 			<groupId>com.taotao</groupId>

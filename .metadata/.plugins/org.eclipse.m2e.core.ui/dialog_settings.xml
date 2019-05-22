@@ -7,6 +7,10 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="taotao-search-service"/>
+			<item value="taotao-search"/>
+			<item value="taotao-search-interface"/>
+			<item value="taotao-parent"/>
 			<item value="taotao-content-service"/>
 			<item value="taotao-content"/>
 		</list>
@@ -58,6 +62,8 @@
 	</section>
 	<section name="MavenModuleWizardParentPage">
 		<list key="moduleName">
+			<item value="taotao-search-service"/>
+			<item value="taotao-search-interface"/>
 			<item value="taotao-content-service"/>
 			<item value="taotao-content-interface"/>
 			<item value="taotao-manager-service"/>
@@ -90,13 +96,13 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
-			<item value="org.taotao.content.service"/>
+			<item value="org.taotao.search.service"/>
 		</list>
 		<list key="groupId">
 			<item value="com.taotao"/>
 		</list>
 		<list key="artifactId">
-			<item value="taotao-content-service"/>
+			<item value="taotao-search-service"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>

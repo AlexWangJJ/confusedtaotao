@@ -8,6 +8,7 @@
         http://code.alibabatech.com/schema/dubbo http://code.alibabatech.com/schema/dubbo/dubbo.xsd
         http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context-4.2.xsd">
 	<!-- 加载属性文件 -->
+	
 	<context:property-placeholder location="classpath:*.properties" />
 
 	<context:component-scan base-package="com.taotao.controller" />
@@ -42,7 +43,10 @@
 		id="itemCatService" timeout="300000" />
 	<dubbo:reference interface="com.taotao.content.service.ContentCategoryService"
 		id="ContentCategoryService" timeout="300000" />
-	<dubbo:reference interface="com.taotao.service.content.ContentService"
+	<dubbo:reference interface="com.taotao.content.service.ContentService"
 		id="contentService" timeout="300000" />
+	<dubbo:reference interface="com.taotao.search.service.SearchService"
+		id="searchService" timeout="300000" />
+		
 
 </beans>

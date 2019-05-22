@@ -29,10 +29,10 @@ public class PageController {
 	//用属性文件的形式对id进行注入
 	@Value("${AD1_CATEGORY_ID}")
 	private Long categoryId;
-	@Value("${AD1_HIGHT_B}")
-	private String AD1_HIGHT_B;
-	@Value("${AD1_HIGHT}")
-	private String AD1_HIGHT;
+	@Value("${AD1_HEIGHT_B}")
+	private String AD1_HEIGHT_B;
+	@Value("${AD1_HEIGHT}")
+	private String AD1_HEIGHT;
 	@Value("${AD1_WIDTH}")
 	private String AD1_WIDTH;
 	@Value("${AD1_WIDTH_B}")
@@ -49,8 +49,8 @@ public class PageController {
 		for(TbContent content:list){
 			Ad1Node node = new Ad1Node();
 			node.setAlt(content.getSubTitle());
-			node.setHeight(AD1_HIGHT);
-			node.setHeightB(AD1_HIGHT_B);
+			node.setHeight(AD1_HEIGHT);
+			node.setHeightB(AD1_HEIGHT_B);
 			node.setHref(content.getUrl());
 			node.setWidth(AD1_WIDTH);
 			node.setWidthB(AD1_WIDTH_B);

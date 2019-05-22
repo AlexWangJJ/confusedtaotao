@@ -22,21 +22,19 @@
 	<!-- 配置静态资源映射 -->
 	<!-- 指定/WEB-INF/js /WEB-INF/css/ 下的所有的静态资源包括子目录下的静态资源 都不被拦截 -->
 	<!-- mapping=/js/** :表示访问静态资源的路径的形式 可以访问 /js/下的静态资源或者所有的子目录下的静态资源 -->
-<!-- 	<mvc:resources location="/WEB-INF/js/" mapping="/js/**" />
-	<mvc:resources location="/WEB-INF/css/" mapping="/css/**" /> -->
+	<!-- <mvc:resources location="/WEB-INF/js/" mapping="/js/**" /> <mvc:resources 
+		location="/WEB-INF/css/" mapping="/css/**" /> -->
 
 	<!-- 定义文件上传解析器 -->
-<!-- 	<bean id="multipartResolver"
-		class="org.springframework.web.multipart.commons.CommonsMultipartResolver">
-		
-		<property name="defaultEncoding" value="UTF-8" />
-		
-		<property name="maxUploadSize" value="5242880" />
-	</bean> -->
+	<!-- <bean id="multipartResolver" class="org.springframework.web.multipart.commons.CommonsMultipartResolver"> 
+		<property name="defaultEncoding" value="UTF-8" /> <property name="maxUploadSize" 
+		value="5242880" /> </bean> -->
 
 	<!-- 引用dubbo服务 -->
-	<dubbo:application name="taotao-portal-web"/>
-	<dubbo:registry protocol="zookeeper" address="192.168.25.128:2181"/>
-	<!-- <dubbo:reference interface="com.taotao.service.ItemCatService"
-		id="itemCatService" timeout="300000" /> -->
+	<dubbo:application name="taotao-portal-web" />
+	<dubbo:registry protocol="zookeeper" address="192.168.137.10:2181" />
+	<dubbo:reference interface="com.taotao.content.service.ContentService"
+		id="contentService" timeout="300000"/>
+	<!-- <dubbo:reference interface="com.taotao.service.ItemCatService" id="itemCatService" 
+		timeout="300000" /> -->
 </beans>
