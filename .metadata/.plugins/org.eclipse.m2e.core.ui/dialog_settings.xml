@@ -7,10 +7,11 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="taotao-search-web"/>
+			<item value="taotao-parent"/>
 			<item value="taotao-search-service"/>
 			<item value="taotao-search"/>
 			<item value="taotao-search-interface"/>
-			<item value="taotao-parent"/>
 			<item value="taotao-content-service"/>
 			<item value="taotao-content"/>
 		</list>
@@ -96,13 +97,10 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
-			<item value="org.taotao.search.service"/>
 		</list>
 		<list key="groupId">
-			<item value="com.taotao"/>
 		</list>
 		<list key="artifactId">
-			<item value="taotao-search-service"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>

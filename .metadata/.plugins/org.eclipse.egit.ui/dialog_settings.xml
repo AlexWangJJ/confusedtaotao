@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
-	<item value="true" key="CommitDialog.showUntracked"/>
+	<item value="false" key="CommitDialog.showUntracked"/>
 	<list key="CommitDialog.authorValues">
 		<item value="Alex Wang &lt;alexwang2018@whu.edu.cn&gt;"/>
 	</list>
