@@ -67,6 +67,11 @@
 				</exclusion>
 			</exclusions>
 		</dependency>
+		<!-- redis客户端 -->
+		<dependency>
+			<groupId>redis.clients</groupId>
+			<artifactId>jedis</artifactId>
+		</dependency>
 		<dependency>
 			<groupId>org.apache.zookeeper</groupId>
 			<artifactId>zookeeper</artifactId>
@@ -75,7 +80,11 @@
 			<groupId>com.github.sgroschupf</groupId>
 			<artifactId>zkclient</artifactId>
 		</dependency>
-		
+		<!-- activemq -->
+		<dependency>
+			<groupId>org.apache.activemq</groupId>
+			<artifactId>activemq-all</artifactId>
+		</dependency>
 	</dependencies>
 	<build>
 		<plugins>

@@ -15,6 +15,7 @@
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/taotao-manager" type="4"/>
 <item elementID="=taotao-portal-web" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/taotao-content" type="4"/>
+<item elementID="=taotao-item-web" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=taotao-manager-dao" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=taotao-manager-web" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 </workingSet>

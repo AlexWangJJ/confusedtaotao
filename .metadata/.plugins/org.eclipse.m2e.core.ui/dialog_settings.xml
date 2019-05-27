@@ -7,8 +7,9 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
-			<item value="taotao-search-web"/>
+			<item value="taotao-item-web"/>
 			<item value="taotao-parent"/>
+			<item value="taotao-search-web"/>
 			<item value="taotao-search-service"/>
 			<item value="taotao-search"/>
 			<item value="taotao-search-interface"/>
@@ -83,8 +84,9 @@
 	</section>
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
-			<item value="E:\taotao_workspace\"/>
+			<item value="E:\taotao_workspace\taotao-item-web"/>
 			<item value="E:\taotao_workspace"/>
+			<item value="E:\taotao_workspace\"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
