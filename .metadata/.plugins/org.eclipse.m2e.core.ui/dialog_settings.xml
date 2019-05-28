@@ -7,8 +7,12 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
-			<item value="taotao-item-web"/>
+			<item value="taotao-sso-web"/>
+			<item value="taotao-sso"/>
+			<item value="taotao-sso-service"/>
+			<item value="taotao-sso-interface"/>
 			<item value="taotao-parent"/>
+			<item value="taotao-item-web"/>
 			<item value="taotao-search-web"/>
 			<item value="taotao-search-service"/>
 			<item value="taotao-search"/>
@@ -64,6 +68,9 @@
 	</section>
 	<section name="MavenModuleWizardParentPage">
 		<list key="moduleName">
+			<item value="taotao-sso-web"/>
+			<item value="taotao-sso-service"/>
+			<item value="taotao-sso-interface"/>
 			<item value="taotao-search-service"/>
 			<item value="taotao-search-interface"/>
 			<item value="taotao-content-service"/>
@@ -84,6 +91,7 @@
 	</section>
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="E:\taotao_workspace\taotao-sso"/>
 			<item value="E:\taotao_workspace\taotao-item-web"/>
 			<item value="E:\taotao_workspace"/>
 			<item value="E:\taotao_workspace\"/>
@@ -99,10 +107,13 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="org.taotao.sso.web"/>
 		</list>
 		<list key="groupId">
+			<item value="com.taotao"/>
 		</list>
 		<list key="artifactId">
+			<item value="taotao-sso-web"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>

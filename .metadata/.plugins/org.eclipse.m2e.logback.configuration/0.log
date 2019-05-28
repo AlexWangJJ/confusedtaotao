@@ -6119,3 +6119,430 @@ Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: Unrecognise
 2019-05-27 11:17:17,748 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
 2019-05-27 11:17:17,750 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2019-05-27 11:17:17,751 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-27 22:38:21,925 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.csource:fastdfs-client-java:jar:1.27-RELEASE is missing, no dependency information available
+2019-05-27 22:38:22,952 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 22:38:22,956 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-05-27 22:38:22,965 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 22:38:22,965 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-27 22:38:23,748 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.csource:fastdfs-client-java:jar:1.27-RELEASE is missing, no dependency information available
+2019-05-27 22:38:24,135 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 22:38:24,137 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2019-05-27 22:38:24,141 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 22:38:24,141 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-27 22:38:24,318 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.csource:fastdfs-client-java:jar:1.27-RELEASE is missing, no dependency information available
+2019-05-27 22:38:24,649 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 22:38:24,650 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2019-05-27 22:38:24,655 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 22:38:24,656 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-27 22:38:24,812 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.csource:fastdfs-client-java:jar:1.27-RELEASE is missing, no dependency information available
+2019-05-27 22:38:25,015 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 22:38:25,015 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-05-27 22:38:25,019 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 22:38:25,019 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-27 22:38:25,220 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.csource:fastdfs-client-java:jar:1.27-RELEASE is missing, no dependency information available
+2019-05-27 22:38:25,514 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 22:38:25,515 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-05-27 22:38:25,517 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 22:38:25,517 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-27 22:38:25,675 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.csource:fastdfs-client-java:jar:1.27-RELEASE is missing, no dependency information available
+2019-05-27 22:38:26,049 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 22:38:26,051 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-27 22:38:26,053 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2019-05-27 22:38:26,057 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 22:38:26,057 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-27 22:38:26,533 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.csource:fastdfs-client-java:jar:1.27-RELEASE is missing, no dependency information available
+2019-05-27 22:38:27,068 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.csource:fastdfs-client-java:jar:1.27-RELEASE is missing, no dependency information available
+2019-05-27 22:38:27,708 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.csource:fastdfs-client-java:jar:1.27-RELEASE is missing, no dependency information available
+2019-05-27 22:38:28,023 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 22:38:28,024 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-05-27 22:38:28,026 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 22:38:28,026 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-27 22:39:25,302 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.taotao:taotao-sso:0.0.1-SNAPSHOT @ E:\taotao_workspace\taotao-sso\pom.xml.
+2019-05-27 22:40:03,063 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.taotao:taotao-sso-interface:0.0.1-SNAPSHOT @ E:\taotao_workspace\taotao-sso\taotao-sso-interface\pom.xml.
+2019-05-27 22:40:03,421 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /taotao-sso-interface/src/main/java
+2019-05-27 22:40:03,422 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /taotao-sso-interface/src/main/resources
+2019-05-27 22:40:03,436 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /taotao-sso-interface/src/test/java
+2019-05-27 22:40:03,436 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /taotao-sso-interface/src/test/resources
+2019-05-27 22:40:03,945 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 22:40:03,946 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-27 22:40:03,948 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 22:40:03,948 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-27 22:40:05,038 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.taotao:taotao-sso:0.0.1-SNAPSHOT @ E:\taotao_workspace\taotao-sso\pom.xml.
+2019-05-27 22:40:05,644 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.taotao:taotao-sso-interface:0.0.1-SNAPSHOT @ E:\taotao_workspace\taotao-sso\taotao-sso-interface\pom.xml.
+2019-05-27 22:40:05,754 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 22:40:05,756 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-27 22:40:05,757 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 22:40:05,757 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-27 22:40:33,544 [Worker-18] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.taotao:taotao-sso-service:0.0.1-SNAPSHOT @ E:\taotao_workspace\taotao-sso\taotao-sso-service\pom.xml.
+2019-05-27 22:40:33,620 [Worker-18] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /taotao-sso-service/src/main/java
+2019-05-27 22:40:33,620 [Worker-18] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /taotao-sso-service/src/main/resources
+2019-05-27 22:40:33,626 [Worker-18] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /taotao-sso-service/src/test/java
+2019-05-27 22:40:33,626 [Worker-18] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /taotao-sso-service/src/test/resources
+2019-05-27 22:40:34,557 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.taotao:taotao-sso:0.0.1-SNAPSHOT @ E:\taotao_workspace\taotao-sso\pom.xml.
+2019-05-27 22:40:35,111 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.taotao:taotao-sso-interface:0.0.1-SNAPSHOT @ E:\taotao_workspace\taotao-sso\taotao-sso-interface\pom.xml.
+2019-05-27 22:40:35,185 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.taotao:taotao-sso-service:0.0.1-SNAPSHOT @ E:\taotao_workspace\taotao-sso\taotao-sso-service\pom.xml.
+2019-05-27 22:40:35,604 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 22:40:35,604 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-27 22:40:35,605 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 22:40:35,606 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-27 22:40:35,632 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 22:40:35,632 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-27 22:40:35,633 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 22:40:35,633 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-27 22:40:39,713 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 22:40:39,713 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-27 22:40:39,713 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 22:40:39,714 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-27 22:41:38,918 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.taotao:taotao-sso-web:0.0.1-SNAPSHOT @ E:\taotao_workspace\taotao-sso\taotao-sso-web\pom.xml.
+2019-05-27 22:41:38,967 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /taotao-sso-web/src/main/java
+2019-05-27 22:41:38,967 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /taotao-sso-web/src/main/resources
+2019-05-27 22:41:38,973 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /taotao-sso-web/src/test/java
+2019-05-27 22:41:38,973 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /taotao-sso-web/src/test/resources
+2019-05-27 22:41:39,770 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.taotao:taotao-sso:0.0.1-SNAPSHOT @ E:\taotao_workspace\taotao-sso\pom.xml.
+2019-05-27 22:41:40,279 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.taotao:taotao-sso-service:0.0.1-SNAPSHOT @ E:\taotao_workspace\taotao-sso\taotao-sso-service\pom.xml.
+2019-05-27 22:41:40,334 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.taotao:taotao-sso-interface:0.0.1-SNAPSHOT @ E:\taotao_workspace\taotao-sso\taotao-sso-interface\pom.xml.
+2019-05-27 22:41:40,400 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.taotao:taotao-sso-web:0.0.1-SNAPSHOT @ E:\taotao_workspace\taotao-sso\taotao-sso-web\pom.xml.
+2019-05-27 22:41:40,765 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 22:41:40,766 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-27 22:41:40,767 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 22:41:40,767 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-27 22:41:40,787 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 22:41:40,787 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-27 22:41:40,788 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 22:41:40,788 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-27 22:41:40,811 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 22:41:40,812 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-27 22:41:40,812 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 22:41:40,812 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-27 22:41:41,002 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 22:41:41,002 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-27 22:41:41,004 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 22:41:41,004 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-27 22:41:53,541 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 22:41:53,541 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-27 22:41:53,542 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 22:41:53,542 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-27 22:43:35,639 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.taotao:taotao-sso-interface:0.0.1-SNAPSHOT @ E:\taotao_workspace\taotao-sso\taotao-sso-interface\pom.xml.
+2019-05-27 22:43:35,749 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.csource:fastdfs-client-java:jar:1.27-RELEASE is missing, no dependency information available
+2019-05-27 22:43:35,893 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 22:43:35,893 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-27 22:43:35,893 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 22:43:35,894 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-27 22:43:37,450 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.csource:fastdfs-client-java:jar:1.27-RELEASE is missing, no dependency information available
+2019-05-27 22:43:37,518 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 22:43:37,519 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-27 22:43:37,520 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 22:43:37,521 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-27 22:44:10,834 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 22:44:10,834 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-27 22:44:10,835 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 22:44:10,835 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-27 22:44:11,902 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 22:44:11,902 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-27 22:44:11,903 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 22:44:11,903 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-27 22:45:02,654 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.taotao:taotao-sso-service:0.0.1-SNAPSHOT @ E:\taotao_workspace\taotao-sso\taotao-sso-service\pom.xml.
+2019-05-27 22:45:02,768 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.csource:fastdfs-client-java:jar:1.27-RELEASE is missing, no dependency information available
+2019-05-27 22:45:03,421 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2019-05-27 22:45:03,590 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.csource:fastdfs-client-java:jar:1.27-RELEASE is missing, no dependency information available
+2019-05-27 22:45:04,602 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 22:45:04,602 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-27 22:45:04,602 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 22:45:04,603 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-27 22:45:04,603 [Worker-15] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of taotao-sso-service
+2019-05-27 22:45:04,603 [Worker-15] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for taotao-sso-service
+2019-05-27 22:45:04,608 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 22:45:05,029 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.csource:fastdfs-client-java:jar:1.27-RELEASE is missing, no dependency information available
+2019-05-27 22:45:05,093 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 22:45:05,094 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-27 22:45:05,094 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 22:45:05,094 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-27 22:45:34,202 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.csource:fastdfs-client-java:jar:1.27-RELEASE is missing, no dependency information available
+2019-05-27 22:45:34,445 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 22:45:34,445 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-27 22:45:34,446 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 22:45:34,446 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-27 22:45:44,504 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 22:45:44,506 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2019-05-27 22:45:44,524 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 22:45:44,525 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-27 22:46:12,437 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 22:46:12,437 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-27 22:46:12,438 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 22:46:12,438 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-27 22:46:29,684 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 22:46:29,685 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2019-05-27 22:46:29,688 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 22:46:29,688 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-27 22:47:07,874 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 22:47:07,874 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-27 22:47:07,875 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 22:47:07,875 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-27 22:47:08,893 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 22:47:08,893 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-27 22:47:08,894 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 22:47:08,894 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-27 22:47:19,173 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 22:47:19,173 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-05-27 22:47:19,178 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 22:47:19,179 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-27 22:47:33,227 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 22:47:33,228 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-27 22:47:33,228 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 22:47:33,228 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-27 22:47:37,057 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 22:47:37,058 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-27 22:47:37,059 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 22:47:37,060 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-27 22:47:56,687 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 22:47:56,687 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-27 22:47:56,688 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 22:47:56,688 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-27 22:48:42,999 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.taotao:taotao-sso-web:0.0.1-SNAPSHOT @ E:\taotao_workspace\taotao-sso\taotao-sso-web\pom.xml.
+2019-05-27 22:48:43,105 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.csource:fastdfs-client-java:jar:1.27-RELEASE is missing, no dependency information available
+2019-05-27 22:48:43,444 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2019-05-27 22:48:43,668 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.csource:fastdfs-client-java:jar:1.27-RELEASE is missing, no dependency information available
+2019-05-27 22:48:44,562 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 22:48:44,563 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-27 22:48:44,563 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 22:48:44,563 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-27 22:48:44,563 [Worker-16] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of taotao-sso-web
+2019-05-27 22:48:44,564 [Worker-16] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for taotao-sso-web
+2019-05-27 22:48:44,567 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 22:48:45,090 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.csource:fastdfs-client-java:jar:1.27-RELEASE is missing, no dependency information available
+2019-05-27 22:48:45,306 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 22:48:45,307 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-05-27 22:48:45,312 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 22:48:45,313 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-27 22:49:35,472 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 22:49:35,473 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-05-27 22:49:35,474 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 22:49:35,475 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-27 22:50:32,575 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 22:50:32,576 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-27 22:50:32,577 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 22:50:32,577 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-27 22:50:46,600 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 22:50:46,601 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-27 22:50:46,602 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 22:50:46,602 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-27 22:50:59,966 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.csource:fastdfs-client-java:jar:1.27-RELEASE is missing, no dependency information available
+2019-05-27 22:51:00,880 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/javax/servlet/servlet-api/2.5/servlet-api-2.5-sources.jar
+2019-05-27 22:51:01,209 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/javax/servlet/servlet-api/2.5/servlet-api-2.5-sources.jar
+2019-05-27 22:51:01,269 [Worker-9] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for javax.servlet:servlet-api:2.5
+2019-05-27 22:51:01,684 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 22:51:01,684 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-27 22:51:01,684 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 22:51:01,685 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-27 22:51:20,265 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 22:51:20,266 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-05-27 22:51:20,267 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 22:51:20,267 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-28 14:46:41,905 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.csource:fastdfs-client-java:jar:1.27-RELEASE is missing, no dependency information available
+2019-05-28 14:46:41,966 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2019-05-28 14:47:24,413 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 14:47:24,417 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-28 14:47:24,419 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 14:47:24,420 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-28 15:10:59,846 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.csource:fastdfs-client-java:jar:1.27-RELEASE is missing, no dependency information available
+2019-05-28 15:11:00,226 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 15:11:00,227 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2019-05-28 15:11:00,240 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 15:11:00,240 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-28 15:11:17,379 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 15:11:17,381 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-28 15:11:17,382 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 15:11:17,382 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-28 15:12:30,288 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 15:12:30,288 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-28 15:12:30,291 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 15:12:30,291 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-28 15:12:39,040 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 15:12:39,040 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-28 15:12:39,043 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 15:12:39,044 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-28 15:12:59,024 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 15:12:59,024 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-28 15:12:59,026 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 15:12:59,026 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-28 15:15:20,918 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.csource:fastdfs-client-java:jar:1.27-RELEASE is missing, no dependency information available
+2019-05-28 15:15:29,794 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 15:15:29,795 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-28 15:15:29,797 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 15:15:29,797 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-28 15:16:01,493 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 15:16:01,493 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-05-28 15:16:01,497 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 15:16:01,498 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-28 17:02:02,739 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 17:02:02,746 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-05-28 17:02:02,749 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 17:02:02,749 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-28 17:11:05,762 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 17:11:05,762 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-28 17:11:05,764 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 17:11:05,765 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-28 17:44:54,320 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 17:44:54,322 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-05-28 17:44:54,324 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 17:44:54,325 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-28 17:54:24,928 [Worker-68] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.taotao:taotao-common:0.0.1-SNAPSHOT @ E:\taotao_workspace\taotao-common\pom.xml.
+2019-05-28 17:54:25,092 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.csource:fastdfs-client-java:jar:1.27-RELEASE is missing, no dependency information available
+2019-05-28 17:54:25,107 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2019-05-28 17:54:25,179 [Worker-68] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.taotao:taotao-manager:0.0.1-SNAPSHOT @ E:\taotao_workspace\taotao-manager\pom.xml.
+2019-05-28 17:54:25,305 [Worker-68] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.taotao:taotao-manager-interface:0.0.1-SNAPSHOT @ E:\taotao_workspace\taotao-manager\taotao-manager-interface\pom.xml.
+2019-05-28 17:54:25,427 [Worker-68] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.taotao:taotao-manager-pojo:0.0.1-SNAPSHOT @ E:\taotao_workspace\taotao-manager\taotao-manager-pojo\pom.xml.
+2019-05-28 17:54:25,482 [Worker-68] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.taotao:taotao-content:0.0.1-SNAPSHOT @ E:\taotao_workspace\taotao-content\pom.xml.
+2019-05-28 17:54:25,595 [Worker-68] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.taotao:taotao-content-interface:0.0.1-SNAPSHOT @ E:\taotao_workspace\taotao-content\taotao-content-interface\pom.xml.
+2019-05-28 17:54:25,710 [Worker-68] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.taotao:taotao-search-interface:0.0.1-SNAPSHOT @ E:\taotao_workspace\taotao-search\taotao-search-interface\pom.xml.
+2019-05-28 17:54:25,839 [Worker-68] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.taotao:taotao-portal-web:0.0.1-SNAPSHOT @ E:\taotao_workspace\taotao-portal-web\pom.xml.
+2019-05-28 17:54:26,119 [Worker-68] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.taotao:taotao-manager-dao:0.0.1-SNAPSHOT @ E:\taotao_workspace\taotao-manager\taotao-manager-dao\pom.xml.
+2019-05-28 17:54:26,308 [Worker-68] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.taotao:taotao-content-service:0.0.1-SNAPSHOT @ E:\taotao_workspace\taotao-content\taotao-content-service\pom.xml.
+2019-05-28 17:54:26,506 [Worker-68] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.taotao:taotao-manager-web:0.0.1-SNAPSHOT @ E:\taotao_workspace\taotao-manager-web\pom.xml.
+2019-05-28 17:54:26,715 [Worker-68] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.taotao:taotao-search-web:0.0.1-SNAPSHOT @ E:\taotao_workspace\taotao-search-web\pom.xml.
+2019-05-28 17:54:26,885 [Worker-68] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.taotao:taotao-search-service:0.0.1-SNAPSHOT @ E:\taotao_workspace\taotao-search\taotao-search-service\pom.xml.
+2019-05-28 17:54:27,158 [Worker-68] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.taotao:taotao-manager-service:0.0.1-SNAPSHOT @ E:\taotao_workspace\taotao-manager\taotao-manager-service\pom.xml.
+2019-05-28 17:54:27,337 [Worker-68] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.taotao:taotao-item-web:0.0.1-SNAPSHOT @ E:\taotao_workspace\taotao-item-web\pom.xml.
+2019-05-28 17:54:27,521 [Worker-68] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.taotao:taotao-sso-interface:0.0.1-SNAPSHOT @ E:\taotao_workspace\taotao-sso\taotao-sso-interface\pom.xml.
+2019-05-28 17:54:27,620 [Worker-68] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.taotao:taotao-sso-service:0.0.1-SNAPSHOT @ E:\taotao_workspace\taotao-sso\taotao-sso-service\pom.xml.
+2019-05-28 17:54:27,803 [Worker-68] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.taotao:taotao-sso-web:0.0.1-SNAPSHOT @ E:\taotao_workspace\taotao-sso\taotao-sso-web\pom.xml.
+2019-05-28 17:54:28,312 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.csource:fastdfs-client-java:jar:1.27-RELEASE is missing, no dependency information available
+2019-05-28 17:54:28,936 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.csource:fastdfs-client-java:jar:1.27-RELEASE is missing, no dependency information available
+2019-05-28 17:54:29,624 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.csource:fastdfs-client-java:jar:1.27-RELEASE is missing, no dependency information available
+2019-05-28 17:54:30,322 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.csource:fastdfs-client-java:jar:1.27-RELEASE is missing, no dependency information available
+2019-05-28 17:54:31,007 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.csource:fastdfs-client-java:jar:1.27-RELEASE is missing, no dependency information available
+2019-05-28 17:54:31,669 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.csource:fastdfs-client-java:jar:1.27-RELEASE is missing, no dependency information available
+2019-05-28 17:54:32,210 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.csource:fastdfs-client-java:jar:1.27-RELEASE is missing, no dependency information available
+2019-05-28 17:54:32,765 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.csource:fastdfs-client-java:jar:1.27-RELEASE is missing, no dependency information available
+2019-05-28 17:54:33,297 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.csource:fastdfs-client-java:jar:1.27-RELEASE is missing, no dependency information available
+2019-05-28 17:54:34,762 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 17:54:34,763 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-28 17:54:34,763 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 17:54:34,763 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-28 17:54:35,178 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.csource:fastdfs-client-java:jar:1.27-RELEASE is missing, no dependency information available
+2019-05-28 17:54:35,358 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.csource:fastdfs-client-java:jar:1.27-RELEASE is missing, no dependency information available
+2019-05-28 17:54:36,000 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.csource:fastdfs-client-java:jar:1.27-RELEASE is missing, no dependency information available
+2019-05-28 17:54:36,100 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 17:54:36,110 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-28 17:54:36,111 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 17:54:36,111 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-28 17:54:36,318 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.csource:fastdfs-client-java:jar:1.27-RELEASE is missing, no dependency information available
+2019-05-28 17:54:36,417 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 17:54:36,417 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-28 17:54:36,418 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 17:54:36,418 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-28 17:54:36,642 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.csource:fastdfs-client-java:jar:1.27-RELEASE is missing, no dependency information available
+2019-05-28 17:54:36,862 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 17:54:36,862 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-05-28 17:54:36,865 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 17:54:36,865 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-28 17:54:37,094 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.csource:fastdfs-client-java:jar:1.27-RELEASE is missing, no dependency information available
+2019-05-28 17:54:37,249 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 17:54:37,250 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2019-05-28 17:54:37,268 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 17:54:37,268 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-28 17:54:37,438 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.csource:fastdfs-client-java:jar:1.27-RELEASE is missing, no dependency information available
+2019-05-28 17:54:37,539 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 17:54:37,539 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-28 17:54:37,540 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 17:54:37,541 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-28 17:54:37,783 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.csource:fastdfs-client-java:jar:1.27-RELEASE is missing, no dependency information available
+2019-05-28 17:54:38,074 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 17:54:38,074 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2019-05-28 17:54:38,088 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 17:54:38,088 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-28 17:54:38,332 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.csource:fastdfs-client-java:jar:1.27-RELEASE is missing, no dependency information available
+2019-05-28 17:54:38,646 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 17:54:38,646 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2019-05-28 17:54:38,671 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 17:54:38,671 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-28 17:54:38,857 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.csource:fastdfs-client-java:jar:1.27-RELEASE is missing, no dependency information available
+2019-05-28 17:54:39,059 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 17:54:39,059 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-05-28 17:54:39,062 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 17:54:39,063 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-28 17:54:39,259 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.csource:fastdfs-client-java:jar:1.27-RELEASE is missing, no dependency information available
+2019-05-28 17:54:39,314 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 17:54:39,314 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-28 17:54:39,315 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 17:54:39,315 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-28 17:54:39,533 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.csource:fastdfs-client-java:jar:1.27-RELEASE is missing, no dependency information available
+2019-05-28 17:54:39,777 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 17:54:39,777 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-05-28 17:54:39,779 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 17:54:39,780 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-28 17:54:40,013 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.csource:fastdfs-client-java:jar:1.27-RELEASE is missing, no dependency information available
+2019-05-28 17:54:40,305 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 17:54:40,305 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-28 17:54:40,305 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2019-05-28 17:54:40,318 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 17:54:40,318 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-28 17:54:40,487 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.csource:fastdfs-client-java:jar:1.27-RELEASE is missing, no dependency information available
+2019-05-28 17:54:40,678 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 17:54:40,679 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-05-28 17:54:40,680 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 17:54:40,680 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-28 17:54:40,851 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.csource:fastdfs-client-java:jar:1.27-RELEASE is missing, no dependency information available
+2019-05-28 17:54:40,905 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 17:54:40,906 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-28 17:54:40,906 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 17:54:40,906 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-28 17:54:41,110 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.csource:fastdfs-client-java:jar:1.27-RELEASE is missing, no dependency information available
+2019-05-28 17:54:41,356 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 17:54:41,357 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2019-05-28 17:54:41,370 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 17:54:41,370 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-28 17:54:41,533 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.csource:fastdfs-client-java:jar:1.27-RELEASE is missing, no dependency information available
+2019-05-28 17:54:41,741 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 17:54:41,742 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-28 17:54:41,742 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 17:54:41,742 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-28 17:54:43,322 [Worker-70] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.csource:fastdfs-client-java:jar:1.27-RELEASE is missing, no dependency information available
+2019-05-28 17:54:43,333 [Worker-70] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2019-05-28 17:54:43,380 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 17:54:43,380 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-28 17:54:43,381 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 17:54:43,381 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-28 17:54:43,499 [Worker-70] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.csource:fastdfs-client-java:jar:1.27-RELEASE is missing, no dependency information available
+2019-05-28 17:54:43,674 [Worker-70] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.csource:fastdfs-client-java:jar:1.27-RELEASE is missing, no dependency information available
+2019-05-28 17:54:44,166 [Worker-70] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.csource:fastdfs-client-java:jar:1.27-RELEASE is missing, no dependency information available
+2019-05-28 17:54:44,403 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 17:54:44,403 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-28 17:54:44,405 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 17:54:44,405 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-28 17:54:44,708 [Worker-70] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.csource:fastdfs-client-java:jar:1.27-RELEASE is missing, no dependency information available
+2019-05-28 17:54:45,059 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 17:54:45,060 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-05-28 17:54:45,062 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 17:54:45,063 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-28 17:54:45,375 [Worker-70] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.csource:fastdfs-client-java:jar:1.27-RELEASE is missing, no dependency information available
+2019-05-28 17:54:45,654 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 17:54:45,655 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-28 17:54:45,655 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 17:54:45,655 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-28 17:54:46,005 [Worker-70] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.csource:fastdfs-client-java:jar:1.27-RELEASE is missing, no dependency information available
+2019-05-28 17:54:46,279 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 17:54:46,280 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-05-28 17:54:46,281 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 17:54:46,281 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-28 17:56:22,844 [Worker-69] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.csource:fastdfs-client-java:jar:1.27-RELEASE is missing, no dependency information available
+2019-05-28 17:56:22,856 [Worker-69] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2019-05-28 17:56:22,908 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 17:56:22,909 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-28 17:56:22,910 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 17:56:22,910 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-28 17:57:01,220 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 17:57:01,221 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-28 17:57:01,222 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 17:57:01,222 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-28 19:30:12,711 [Worker-96] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\taotao_workspace\taotao-common
+2019-05-28 19:30:12,712 [Worker-96] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2019-05-28 19:30:19,945 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 19:30:19,946 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-28 19:30:19,946 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 19:30:19,946 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-28 19:45:31,872 [Worker-99] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.csource:fastdfs-client-java:jar:1.27-RELEASE is missing, no dependency information available
+2019-05-28 19:45:31,929 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 19:45:31,930 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-28 19:45:31,931 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 19:45:31,931 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
